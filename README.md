@@ -82,5 +82,3 @@ This project is built using modern web technologies to ensure a smooth and premi
 - **Icons**: [Lucide React](https://lucide.dev/)
 - **Fonts**: [Google Fonts (Playfair Display & Geist)](https://fonts.google.com/)
 
----
-Made with ❤️ by DzarelDeveloper
